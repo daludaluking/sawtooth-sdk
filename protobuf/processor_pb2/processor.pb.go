@@ -6,7 +6,7 @@ package processor_pb2
 import proto "github.com/golang/protobuf/proto"
 import fmt "fmt"
 import math "math"
-import transaction_pb2 "github.com/daludaluking/sawtooth_sdk/protobuf/transaction_pb2"
+import transaction_pb2 "github.com/daludaluking/sawtooth-sdk/protobuf/transaction_pb2"
 
 // Reference imports to suppress errors if they are not otherwise used.
 var _ = proto.Marshal
@@ -425,7 +425,7 @@ func init() {
 }
 
 func init() {
-	proto.RegisterFile("github.com/daludaluking/sawtooth_sdk/protobuf/processor_pb2/processor.proto", fileDescriptor_processor_f8a91421cdbbfbbf)
+	proto.RegisterFile("github.com/daludaluking/sawtooth-sdk/protobuf/processor_pb2/processor.proto", fileDescriptor_processor_f8a91421cdbbfbbf)
 }
 
 var fileDescriptor_processor_f8a91421cdbbfbbf = []byte{

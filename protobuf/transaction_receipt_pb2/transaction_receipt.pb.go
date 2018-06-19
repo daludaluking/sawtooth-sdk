@@ -6,7 +6,7 @@ package txn_receipt_pb2
 import proto "github.com/golang/protobuf/proto"
 import fmt "fmt"
 import math "math"
-import events_pb2 "github.com/daludaluking/sawtooth_sdk/protobuf/events_pb2"
+import events_pb2 "github.com/daludaluking/sawtooth-sdk/protobuf/events_pb2"
 
 // Reference imports to suppress errors if they are not otherwise used.
 var _ = proto.Marshal
@@ -214,7 +214,7 @@ func init() {
 }
 
 func init() {
-	proto.RegisterFile("github.com/daludaluking/sawtooth_sdk/protobuf/transaction_receipt_pb2/transaction_receipt.proto", fileDescriptor_transaction_receipt_b22653c38208ec7a)
+	proto.RegisterFile("github.com/daludaluking/sawtooth-sdk/protobuf/transaction_receipt_pb2/transaction_receipt.proto", fileDescriptor_transaction_receipt_b22653c38208ec7a)
 }
 
 var fileDescriptor_transaction_receipt_b22653c38208ec7a = []byte{

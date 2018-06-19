@@ -532,7 +532,7 @@ func init() {
 }
 
 func init() {
-	proto.RegisterFile("github.com/daludaluking/sawtooth_sdk/protobuf/validator_pb2/validator.proto", fileDescriptor_validator_52afef5ca12f08ff)
+	proto.RegisterFile("github.com/daludaluking/sawtooth-sdk/protobuf/validator_pb2/validator.proto", fileDescriptor_validator_52afef5ca12f08ff)
 }
 
 var fileDescriptor_validator_52afef5ca12f08ff = []byte{

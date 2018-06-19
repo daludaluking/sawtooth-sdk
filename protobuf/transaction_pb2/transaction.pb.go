@@ -240,7 +240,7 @@ func init() {
 }
 
 func init() {
-	proto.RegisterFile("github.com/daludaluking/sawtooth_sdk/protobuf/transaction_pb2/transaction.proto", fileDescriptor_transaction_b0ca4394c881a1c6)
+	proto.RegisterFile("github.com/daludaluking/sawtooth-sdk/protobuf/transaction_pb2/transaction.proto", fileDescriptor_transaction_b0ca4394c881a1c6)
 }
 
 var fileDescriptor_transaction_b0ca4394c881a1c6 = []byte{

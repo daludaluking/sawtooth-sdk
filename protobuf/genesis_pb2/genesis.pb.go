@@ -6,7 +6,7 @@ package genesis_pb2
 import proto "github.com/golang/protobuf/proto"
 import fmt "fmt"
 import math "math"
-import batch_pb2 "github.com/daludaluking/sawtooth_sdk/protobuf/batch_pb2"
+import batch_pb2 "github.com/daludaluking/sawtooth-sdk/protobuf/batch_pb2"
 
 // Reference imports to suppress errors if they are not otherwise used.
 var _ = proto.Marshal
@@ -63,7 +63,7 @@ func init() {
 }
 
 func init() {
-	proto.RegisterFile("github.com/daludaluking/sawtooth_sdk/protobuf/genesis_pb2/genesis.proto", fileDescriptor_genesis_8c693c890b42e8b1)
+	proto.RegisterFile("github.com/daludaluking/sawtooth-sdk/protobuf/genesis_pb2/genesis.proto", fileDescriptor_genesis_8c693c890b42e8b1)
 }
 
 var fileDescriptor_genesis_8c693c890b42e8b1 = []byte{

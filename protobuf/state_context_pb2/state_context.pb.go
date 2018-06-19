@@ -6,7 +6,7 @@ package state_context_pb2
 import proto "github.com/golang/protobuf/proto"
 import fmt "fmt"
 import math "math"
-import events_pb2 "github.com/daludaluking/sawtooth_sdk/protobuf/events_pb2"
+import events_pb2 "github.com/daludaluking/sawtooth-sdk/protobuf/events_pb2"
 
 // Reference imports to suppress errors if they are not otherwise used.
 var _ = proto.Marshal
@@ -672,7 +672,7 @@ func init() {
 }
 
 func init() {
-	proto.RegisterFile("github.com/daludaluking/sawtooth_sdk/protobuf/state_context_pb2/state_context.proto", fileDescriptor_state_context_e9993d0f0f547372)
+	proto.RegisterFile("github.com/daludaluking/sawtooth-sdk/protobuf/state_context_pb2/state_context.proto", fileDescriptor_state_context_e9993d0f0f547372)
 }
 
 var fileDescriptor_state_context_e9993d0f0f547372 = []byte{

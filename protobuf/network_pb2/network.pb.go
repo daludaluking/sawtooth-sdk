@@ -672,7 +672,7 @@ func init() {
 }
 
 func init() {
-	proto.RegisterFile("github.com/daludaluking/sawtooth_sdk/protobuf/network_pb2/network.proto", fileDescriptor_network_a64939f5a4ea11c7)
+	proto.RegisterFile("github.com/daludaluking/sawtooth-sdk/protobuf/network_pb2/network.proto", fileDescriptor_network_a64939f5a4ea11c7)
 }
 
 var fileDescriptor_network_a64939f5a4ea11c7 = []byte{

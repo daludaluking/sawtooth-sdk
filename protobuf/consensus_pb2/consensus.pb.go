@@ -2307,7 +2307,7 @@ func init() {
 }
 
 func init() {
-	proto.RegisterFile("github.com/daludaluking/sawtooth_sdk/protobuf/consensus_pb2/consensus.proto", fileDescriptor_consensus_edfa01353bc739c7)
+	proto.RegisterFile("github.com/daludaluking/sawtooth-sdk/protobuf/consensus_pb2/consensus.proto", fileDescriptor_consensus_edfa01353bc739c7)
 }
 
 var fileDescriptor_consensus_edfa01353bc739c7 = []byte{

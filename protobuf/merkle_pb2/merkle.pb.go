@@ -133,7 +133,7 @@ func init() {
 }
 
 func init() {
-	proto.RegisterFile("github.com/daludaluking/sawtooth_sdk/protobuf/merkle_pb2/merkle.proto", fileDescriptor_merkle_65730cd798e98cd8)
+	proto.RegisterFile("github.com/daludaluking/sawtooth-sdk/protobuf/merkle_pb2/merkle.proto", fileDescriptor_merkle_65730cd798e98cd8)
 }
 
 var fileDescriptor_merkle_65730cd798e98cd8 = []byte{

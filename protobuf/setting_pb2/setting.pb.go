@@ -111,7 +111,7 @@ func init() {
 }
 
 func init() {
-	proto.RegisterFile("github.com/daludaluking/sawtooth_sdk/protobuf/setting_pb2/setting.proto", fileDescriptor_setting_06f112c5adf137de)
+	proto.RegisterFile("github.com/daludaluking/sawtooth-sdk/protobuf/setting_pb2/setting.proto", fileDescriptor_setting_06f112c5adf137de)
 }
 
 var fileDescriptor_setting_06f112c5adf137de = []byte{

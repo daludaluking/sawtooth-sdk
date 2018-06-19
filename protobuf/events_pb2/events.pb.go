@@ -308,7 +308,7 @@ func init() {
 }
 
 func init() {
-	proto.RegisterFile("github.com/daludaluking/sawtooth_sdk/protobuf/events_pb2/events.proto", fileDescriptor_events_ae7aac43f6f15367)
+	proto.RegisterFile("github.com/daludaluking/sawtooth-sdk/protobuf/events_pb2/events.proto", fileDescriptor_events_ae7aac43f6f15367)
 }
 
 var fileDescriptor_events_ae7aac43f6f15367 = []byte{

@@ -278,7 +278,7 @@ func init() {
 }
 
 func init() {
-	proto.RegisterFile("github.com/daludaluking/sawtooth_sdk/protobuf/identity_pb2/identity.proto", fileDescriptor_identity_a83001c1ef7d245c)
+	proto.RegisterFile("github.com/daludaluking/sawtooth-sdk/protobuf/identity_pb2/identity.proto", fileDescriptor_identity_a83001c1ef7d245c)
 }
 
 var fileDescriptor_identity_a83001c1ef7d245c = []byte{
